@@ -1,0 +1,6 @@
+USAGE
+    ./projTester TRD \[BFT\] [outputFile]
+DESCRIPTION
+    TRD             root directory of all the tests
+    BFT             binary file to be tested
+    outputFile      file in which the ressult is printed
